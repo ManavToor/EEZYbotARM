@@ -6,7 +6,8 @@ I had a lot of free time in my highscool tech class so my teacher let me use the
 <b>This is the robot arm:</b><br /><br />
   &emsp;&emsp;-[Link](https://www.thingiverse.com/thing:1015238) to original creator and parts<br /><br />
   &emsp;&emsp;-includes 3 servo motors to reach all axis<br /><br />
-  &emsp;&emsp;-3 potentiometers to control each servo<br /><br />
+  &emsp;&emsp;-a claw that opens and closes using a servo<br /><br />
+  &emsp;&emsp;-4 potentiometers to control each servo<br /><br />
 <br />
 I followed a tutorial to print and assemble the arm, however I did all the wiring and code by myself. I also never took pictures of the arm for some reason, so here is the one my teacher put in the highscool yearbook<br />
 
