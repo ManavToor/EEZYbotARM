@@ -4,6 +4,7 @@
 I had a lot of free time in my highscool tech class so my teacher let me use the 3D printer to build a personal project :) I found a cool 3D printed robot arm online and printed all the pieces and assembled it. The coding and wiring part I did by myself, it was just the 3D printing I got from online<br />
 <br />
 <b>This is the robot arm:</b><br /><br />
+
   &emsp;&emsp;-[Link](https://www.thingiverse.com/thing:1015238) to original creator and parts<br /><br />
   &emsp;&emsp;-includes 3 servo motors to reach all axis<br /><br />
   &emsp;&emsp;-a claw that opens and closes using a servo<br /><br />
